@@ -1,5 +1,6 @@
 # commands-cli
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/689e0750215e4668a5ef57e52a39663f)](https://app.codacy.com/app/yinonavraham/commands-cli?utm_source=github.com&utm_medium=referral&utm_content=yinonavraham/commands-cli&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/eBay/commands-cli.svg?branch=master)](https://travis-ci.org/eBay/commands-cli)
 [![GitHub](https://img.shields.io/github/license/ebay/commands-cli.svg)](LICENSE.txt)
 
